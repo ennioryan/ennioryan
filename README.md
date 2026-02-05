@@ -1,25 +1,37 @@
-### hello! I'm Ennio Ryan
+<h1 align="center">Hi 👋, I'm Ennio Ryan</h1>
+<h3 align="center">Information Technology Student</h3>
 
-### Statistics:
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ennioryan&show_icons=true&theme=dracula)
+---
 
-### contacts:
+### 👨‍💻 About Me
+- 🎓 Information Technology Student
+- 💻 Experienced in **C** and **Python**
+- 🚀 Passionate about software development and technology
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.ryan_03)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ennior63@gmail.com)
+---
 
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github" />
+</p>
 
-<!--
-**ennioryan/Ennioryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">📊 GitHub Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ennioryan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ennioryan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contato
+<p align="left">
+  <a href="mailto:ennior63@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/e.ryan_03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
