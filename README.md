@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🎓 Information Technology Student
 - 💻 Experienced in **C** and **Python**
-- 🚀 Passionate about software development and technology
+- 🚀 Focused on software development and technology
 
 ---
 
